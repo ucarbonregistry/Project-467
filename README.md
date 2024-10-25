@@ -1,6 +1,9 @@
 # Project-467
 4 MW Bundled Solar Project - Botad, Gujarat
 
+![](https://www.ucarbonregistry.io/Registry/Generate?code=https%3A%2F%2Fwww.ucarbonregistry.io%2FRegistry%2FDetails%3Fid%3Dd1EdL9BPNu9QFdh%252Bm5Rp9w%253D%253D&size=2)
+
+
 This bundled project comprising of 4 solar parks with installed capacity of 4.0089 MWh and is a grid connected ground mounted solar plant. PV power generation for captive usage by identified consumers via a wheeling agreement with the grid. The Power Purchase Agreement (PPA) and the Connectivity Permission Procedure (CPP) for consumer use for this project activity were duly signed with the Gujarat Energy Development Agency (GEDA), the regulatory body overseeing energy projects in Gujarat.
 _______________
 
